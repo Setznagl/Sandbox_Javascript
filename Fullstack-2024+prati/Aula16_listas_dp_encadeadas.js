@@ -12,6 +12,7 @@ class DoublyLinkedList {
         this.tail = null;
         this.size = 0;
     }
+    //a
 
     add(data){
         let newNode = new Node(data);
